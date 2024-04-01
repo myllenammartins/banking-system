@@ -1,6 +1,6 @@
 # banking-system
 
-# Criar um Sistema Bancário em Python 
+# Sistema Bancário em Python 
 
 ## Objetivo
 O objetivo é implementar três operações essenciais: depósito, saque e extrato. O sistema será desenvolvido para um banco que busca monetizar suas operações.
